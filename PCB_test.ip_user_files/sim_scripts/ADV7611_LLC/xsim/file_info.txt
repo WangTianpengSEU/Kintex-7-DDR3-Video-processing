@@ -1,0 +1,2 @@
+ADV7611_LLC_sim_netlist.v,verilog,xil_defaultlib,../../../../PCB_test.srcs/sources_1/ip/ADV7611_LLC/ADV7611_LLC_sim_netlist.v,incdir="../../../../PCB_test.srcs/sources_1/ip/ADV7611_LLC"
+glbl.v,Verilog,xil_defaultlib,glbl.v

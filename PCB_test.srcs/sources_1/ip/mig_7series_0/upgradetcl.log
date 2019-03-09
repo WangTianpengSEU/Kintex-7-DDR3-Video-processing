@@ -1,0 +1,19 @@
+MIG: 09:57:39 : ################# RUNNING MIG BATCH ###################
+MIG: 09:57:39 : MIG::Writing IN file for 'mig_7series_0'...compDirPath: E:/VIVADO_17_4/Vivado/2017.4/data/ip/xilinx/mig_7series_v4_0... instDirPath: h:/Desktop/Video_new_PCB/PCB_test_project/PCB_test_DDR3_ok1/PCB_test/PCB_test.srcs/sources_1/ip/mig_7series_0
+MIG: 09:57:39 : synp_flow:  -- synthesis_mode: Other
+MIG: 09:57:39 : outputDirectory: h:/Desktop/Video_new_PCB/PCB_test_project/PCB_test_DDR3_ok1/PCB_test/PCB_test.srcs/sources_1/ip/mig_7series_0/_tmp/
+MIG: 09:57:39 : vivado_mode: xpg_pa
+MIG: 09:57:39 : HDL Language: Verilog
+MIG: 09:57:39 : compInfo: false
+MIG: 09:57:39 : Vivado Options xc7k325t ffg676 -1
+MIG: 09:57:39 : 1: xc7k325t 2: ffg676 3: -1
+MIG: 09:57:39 : relative mig path: coregen/ip/xilinx/other/com/xilinx/ip/mig_7series_v4_0/bin/nt64/mig.exe
+MIG: 09:57:39 : xilinx_path: E:/VIVADO_17_4/Vivado/2017.4/ids_lite/ISE
+MIG: 09:57:39 : Without MYMIG
+MIG: 09:57:39 : mig_exec path: E:/VIVADO_17_4/Vivado/2017.4/ids_lite/ISE/coregen/ip/xilinx/other/com/xilinx/ip/mig_7series_v4_0/bin/nt64/mig.exe
+MIG: 09:57:39 : mig_exec path: E:/VIVADO_17_4/Vivado/2017.4/ids_lite/ISE/coregen/ip/xilinx/other/com/xilinx/ip/mig_7series_v4_0/bin/nt64/mig.exe
+MIG: 09:57:39 : mig_bin: E:/VIVADO_17_4/Vivado/2017.4/ids_lite/ISE/coregen/ip/xilinx/other/com/xilinx/ip/mig_7series_v4_0/bin/nt64/mig.exe
+MIG: 09:57:39 : E:/VIVADO_17_4/Vivado/2017.4/ids_lite/ISE/coregen/ip/xilinx/other/com/xilinx/ip/mig_7series_v4_0/bin/nt64/mig.exe -- h:/Desktop/Video_new_PCB/PCB_test_project/PCB_test_DDR3_ok1/PCB_test/PCB_test.srcs/sources_1/ip/mig_7series_0/xil_upgrade.out -- h:/Desktop/Video_new_PCB/PCB_test_project/PCB_test_DDR3_ok1/PCB_test/PCB_test.srcs/sources_1/ip/mig_7series_0/xil_upgrade.in
+MIG: 09:57:39 : Running E:/VIVADO_17_4/Vivado/2017.4/ids_lite/ISE/coregen/ip/xilinx/other/com/xilinx/ip/mig_7series_v4_0/bin/nt64/mig.exe -cg_exc_inp h:/Desktop/Video_new_PCB/PCB_test_project/PCB_test_DDR3_ok1/PCB_test/PCB_test.srcs/sources_1/ip/mig_7series_0/xil_upgrade.in -cg_exc_out h:/Desktop/Video_new_PCB/PCB_test_project/PCB_test_DDR3_ok1/PCB_test/PCB_test.srcs/sources_1/ip/mig_7series_0/xil_upgrade.out ... 
+MIG: 09:57:47 : After isLin
+MIG: 09:57:47 : result: 0

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="Video_out_ram_synth_1" LaunchPart="xc7k325tffg676-1" LaunchTime="1541413112">
+  <File Type="PA-TCL" Name="Video_out_ram.tcl"/>
+  <File Type="REPORTS-TCL" Name="Video_out_ram_reports.tcl"/>
+  <File Type="RDS-RDS" Name="Video_out_ram.vds"/>
+  <File Type="RDS-UTIL" Name="Video_out_ram_utilization_synth.rpt"/>
+  <File Type="RDS-UTIL-PB" Name="Video_out_ram_utilization_synth.pb"/>
+  <File Type="RDS-DCP" Name="Video_out_ram.dcp"/>
+  <FileSet Name="sources" Type="BlockSrcs" RelSrcDir="$PSRCDIR/Video_out_ram">
+    <File Path="$PSRCDIR/sources_1/ip/Video_out_ram/Video_out_ram.xci">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TopModule" Val="Video_out_ram"/>
+      <Option Name="UseBlackboxStub" Val="1"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="BlockSrcs" RelSrcDir="$PSRCDIR/Video_out_ram">
+    <File Path="$PSRCDIR/sources_1/ip/Video_out_ram/Video_out_ram.xci">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TopModule" Val="Video_out_ram"/>
+      <Option Name="UseBlackboxStub" Val="1"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2017"/>
+    <Step Id="synth_design"/>
+  </Strategy>
+</GenRun>

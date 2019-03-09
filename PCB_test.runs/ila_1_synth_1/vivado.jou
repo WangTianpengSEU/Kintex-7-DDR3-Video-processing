@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Mon Oct 29 18:37:01 2018
+# Process ID: 13052
+# Current directory: H:/Desktop/Video_new_PCB/PCB_test_project/PCB_test_DDR3_ok1/PCB_test/PCB_test.runs/ila_1_synth_1
+# Command line: vivado.exe -log ila_1.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source ila_1.tcl
+# Log file: H:/Desktop/Video_new_PCB/PCB_test_project/PCB_test_DDR3_ok1/PCB_test/PCB_test.runs/ila_1_synth_1/ila_1.vds
+# Journal file: H:/Desktop/Video_new_PCB/PCB_test_project/PCB_test_DDR3_ok1/PCB_test/PCB_test.runs/ila_1_synth_1\vivado.jou
+#-----------------------------------------------------------
+source ila_1.tcl -notrace

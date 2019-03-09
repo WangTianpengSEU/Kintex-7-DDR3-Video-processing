@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Thu Nov  1 20:40:49 2018
+# Process ID: 13184
+# Current directory: H:/Desktop/PCB_test_DDR3_30fps_1/PCB_test_DDR3_ok1/PCB_test/PCB_test.runs/Video_in_distribute_ram_synth_1
+# Command line: vivado.exe -log Video_in_distribute_ram.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Video_in_distribute_ram.tcl
+# Log file: H:/Desktop/PCB_test_DDR3_30fps_1/PCB_test_DDR3_ok1/PCB_test/PCB_test.runs/Video_in_distribute_ram_synth_1/Video_in_distribute_ram.vds
+# Journal file: H:/Desktop/PCB_test_DDR3_30fps_1/PCB_test_DDR3_ok1/PCB_test/PCB_test.runs/Video_in_distribute_ram_synth_1\vivado.jou
+#-----------------------------------------------------------
+source Video_in_distribute_ram.tcl -notrace

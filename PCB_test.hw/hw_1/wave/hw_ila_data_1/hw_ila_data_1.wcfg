@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="H:/Desktop/PCB_test_DDR3_30fps_1/PCB_test_DDR3_ok1/PCB_test/PCB_test.hw/hw_1/wave/hw_ila_data_1/hw_ila_data_1.wdb" id="1">
+         <top_modules>
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="4991fs"></ZoomEndTime>
+      <Cursor1Time time="986000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="388"></NameColumnWidth>
+      <ValueColumnWidth column_width="109"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="22" />
+   <wvobject fp_name="DDR3_state_machine/W_or_R_flag" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">DDR3_state_machine/W_or_R_flag</obj_property>
+      <obj_property name="ObjectShortName">W_or_R_flag</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="DDR3_state_machine/addr_row" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">DDR3_state_machine/addr_row[18:0]</obj_property>
+      <obj_property name="ObjectShortName">addr_row[18:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="DDR3_state_machine/addr_row_temp" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">DDR3_state_machine/addr_row_temp[18:0]</obj_property>
+      <obj_property name="ObjectShortName">addr_row_temp[18:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="DDR3_state_machine/app_en" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">DDR3_state_machine/app_en</obj_property>
+      <obj_property name="ObjectShortName">app_en</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="DDR3_state_machine/app_rd_data_end" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">DDR3_state_machine/app_rd_data_end</obj_property>
+      <obj_property name="ObjectShortName">app_rd_data_end</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="DDR3_state_machine/app_rd_data_valid" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">DDR3_state_machine/app_rd_data_valid</obj_property>
+      <obj_property name="ObjectShortName">app_rd_data_valid</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="DDR3_state_machine/app_rdy" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">DDR3_state_machine/app_rdy</obj_property>
+      <obj_property name="ObjectShortName">app_rdy</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="DDR3_state_machine/app_wdf_end" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">DDR3_state_machine/app_wdf_end</obj_property>
+      <obj_property name="ObjectShortName">app_wdf_end</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="DDR3_state_machine/app_wdf_rdy" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">DDR3_state_machine/app_wdf_rdy</obj_property>
+      <obj_property name="ObjectShortName">app_wdf_rdy</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="DDR3_state_machine/DDR_out_video_addra" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">DDR3_state_machine/DDR_out_video_addra[7:0]</obj_property>
+      <obj_property name="ObjectShortName">DDR_out_video_addra[7:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="DDR3_state_machine/DDR_out_video_addrb" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">DDR3_state_machine/DDR_out_video_addrb[7:0]</obj_property>
+      <obj_property name="ObjectShortName">DDR_out_video_addrb[7:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="DDR3_state_machine/HDMI_I_DE_IN_1" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">DDR3_state_machine/HDMI_I_DE_IN_1</obj_property>
+      <obj_property name="ObjectShortName">HDMI_I_DE_IN_1</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="DDR3_state_machine/HDMI_I_HSYNC_IN_1" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">DDR3_state_machine/HDMI_I_HSYNC_IN_1</obj_property>
+      <obj_property name="ObjectShortName">HDMI_I_HSYNC_IN_1</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="DDR3_state_machine/HDMI_I_P_IN_1" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">DDR3_state_machine/HDMI_I_P_IN_1[23:0]</obj_property>
+      <obj_property name="ObjectShortName">HDMI_I_P_IN_1[23:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="DDR3_state_machine/HDMI_I_VSYNC_IN_1" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">DDR3_state_machine/HDMI_I_VSYNC_IN_1</obj_property>
+      <obj_property name="ObjectShortName">HDMI_I_VSYNC_IN_1</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="DDR3_state_machine/HDMI_O_P_OUT_1" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">DDR3_state_machine/HDMI_O_P_OUT_1[23:0]</obj_property>
+      <obj_property name="ObjectShortName">HDMI_O_P_OUT_1[23:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="DDR3_state_machine/Ram_change_flag" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">DDR3_state_machine/Ram_change_flag</obj_property>
+      <obj_property name="ObjectShortName">Ram_change_flag</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="DDR3_state_machine/addr_read_column" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">DDR3_state_machine/addr_read_column[10:0]</obj_property>
+      <obj_property name="ObjectShortName">addr_read_column[10:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="DDR3_state_machine/addr_write_column" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">DDR3_state_machine/addr_write_column[10:0]</obj_property>
+      <obj_property name="ObjectShortName">addr_write_column[10:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="DDR3_state_machine/Video_in_ddr_addra" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">DDR3_state_machine/Video_in_ddr_addra[7:0]</obj_property>
+      <obj_property name="ObjectShortName">Video_in_ddr_addra[7:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="DDR3_state_machine/Video_in_ddr_addrb" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">DDR3_state_machine/Video_in_ddr_addrb[7:0]</obj_property>
+      <obj_property name="ObjectShortName">Video_in_ddr_addrb[7:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="DDR3_state_machine/HDMI_I_DE_IN_1" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">DDR3_state_machine/HDMI_I_DE_IN_1</obj_property>
+      <obj_property name="ObjectShortName">HDMI_I_DE_IN_1</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+</wave_config>

@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Mon Nov  5 18:18:34 2018
+# Process ID: 4612
+# Current directory: H:/Desktop/Code_copy/PCB_test_60fps_1/PCB_test.runs/Video_out_ram_synth_1
+# Command line: vivado.exe -log Video_out_ram.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Video_out_ram.tcl
+# Log file: H:/Desktop/Code_copy/PCB_test_60fps_1/PCB_test.runs/Video_out_ram_synth_1/Video_out_ram.vds
+# Journal file: H:/Desktop/Code_copy/PCB_test_60fps_1/PCB_test.runs/Video_out_ram_synth_1\vivado.jou
+#-----------------------------------------------------------
+source Video_out_ram.tcl -notrace

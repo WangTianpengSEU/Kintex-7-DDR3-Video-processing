@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Thu Nov  1 20:44:23 2018
+# Process ID: 12108
+# Current directory: H:/Desktop/PCB_test_DDR3_30fps_1/PCB_test_DDR3_ok1/PCB_test/PCB_test.runs/DDR_out_distribute_ram_synth_1
+# Command line: vivado.exe -log DDR_out_distribute_ram.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source DDR_out_distribute_ram.tcl
+# Log file: H:/Desktop/PCB_test_DDR3_30fps_1/PCB_test_DDR3_ok1/PCB_test/PCB_test.runs/DDR_out_distribute_ram_synth_1/DDR_out_distribute_ram.vds
+# Journal file: H:/Desktop/PCB_test_DDR3_30fps_1/PCB_test_DDR3_ok1/PCB_test/PCB_test.runs/DDR_out_distribute_ram_synth_1\vivado.jou
+#-----------------------------------------------------------
+source DDR_out_distribute_ram.tcl -notrace
